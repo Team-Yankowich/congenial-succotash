@@ -1,5 +1,7 @@
 # congenial-succotash
 
+![Logo](welcome.png)
+
 # Welcome to [Your Organization Name] 👋
 
 We are a community of passionate developers, designers, and innovators dedicated to building open-source tools and solutions for the modern web.
